@@ -1,5 +1,5 @@
 ### Hi! 👋 My name is Ernest. Welcome! ✌️
-About me
+About me:
 •I am 16 year old novice programmer from Stavropol 💻
 •I learn Java at [Job4j](https://job4j.ru/) ☕
 •My Java expirience is 1,5 years ⌚
